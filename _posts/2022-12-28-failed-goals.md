@@ -8,7 +8,7 @@ At the beginning of 2022 I made the risky decision to create a list of goals for
 
 Here's a screenshot:
 
-![2022 Goal List](../assets/img/2022-12-28-todo.png)
+![2022 Goal List](/assets/img/2022-12-28-todo.png)
 
 
 
@@ -32,7 +32,7 @@ This **second** post in the blog (yes second) counts almost towards starting a d
 
 But I digress. Goals for 2023 are going to be a bit simpler:
 
-![2023 Goals, definitely](../assets/img/2022-12-28-goals.png)
+![2023 Goals, definitely](/assets/img/2022-12-28-goals.png)
 
 
 
