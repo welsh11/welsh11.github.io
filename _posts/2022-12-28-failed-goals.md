@@ -36,6 +36,8 @@ But I digress. Goals for 2023 are going to be a bit simpler:
 
 
 
-Oh, and get healty and lose weight....but I always want to do that!
+Oh, and get healthy and lose weight....but I always want to do that!
 
 Easy!
+
+--MrB
