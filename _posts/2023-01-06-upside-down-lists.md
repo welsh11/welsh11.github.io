@@ -192,7 +192,7 @@ extension View {
 }
 ```
 
-And there you have it.
+And there you have it!
 
 It would be remiss of me not to add a caveat here.
 I have absolutely no idea if this is going to break something going forwards, or if there is some kind of weird performance bug at scale. I'm not a SwiftUI engineer, so I may be doing something bad here - I'm sure I'll find out in production.
