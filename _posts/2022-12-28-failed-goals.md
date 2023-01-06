@@ -4,15 +4,14 @@ date: 2022-12-28 17:19
 categories: [General]
 tags: []
 ---
-At the beginning of 2022 I made the risky decision to create a list of goals for the year that would hopfully push me forwards a bit to becoming an indy developer.
+At the beginning of 2022 I made the risky decision to create a list of goals for the year that would hopefully push me forwards a bit on the road to becoming an indy.
 
 Here's a screenshot:
 
 ![2022 Goal List](/assets/img/2022-12-28-todo.png)
 
 
-
-Intention was to:
+The *intention* was to:
 
 * Do some Youtube dev videos
 * Build and release my podcast app side project (Podthing) - with the intention of...
@@ -22,9 +21,9 @@ Intention was to:
 
 You will note that none of those ever got checked off or even moved to 'In Progress'!
 
-A bit fat FAIL on this then?
+A big fat FAIL on this then?
 
-Looking back on the year, it was pretty eventful and incredibly busy. Most of these Goals are many hours of hard work and to be honest it was I had the dual menace of 'not enough hours in the day' and 'can't be arsed' to contend with. None of this was ever going to happen.....and I probably knew it at the time.
+Looking back on the year, it was pretty eventful and incredibly busy. Most of these goals would take many hours of hard work and to be honest I had the dual menace of 'not enough hours in the day' and 'can't be arsed' to contend with. None of this was ever going to happen.....and I probably knew it at the time.
 
 So let's look forwards and not backwards.
 
