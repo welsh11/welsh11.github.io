@@ -12,7 +12,7 @@ This sounds like a standard list with the data reverse-ordered. But you need to 
 * Content should animate in from the bottom
 * The natural scroll-to-top behaviour should actually be a scroll to the bottom.
 
-Might be a bit easier with an example, this is what I;ve got going on in Noot:
+Might be a bit easier with an example, this is what I've got going on in Noot:
 
 ![Noot List](/assets/img/2023-01-06-noot-list.gif){: width="320" }
 
@@ -49,7 +49,7 @@ struct UpsideDownList: View {
 }
 
 ```
-Note: I use a ScrollView and LazyVStack here instead of a List because I find Lists problematic in so many ways in SwiftUI......
+Note: I use a `ScrollView` and `LazyVStack` here instead of a `List` because I find Lists problematic in so many ways in SwiftUI......
 
 Anyway, this results in:
 
